@@ -3,7 +3,7 @@
 <h3 align="center">A passionate AIML student from India</h3>
 "Hi, I'm AKANKSHA, a SOFTWARE ENGINEERING student passionate about creating impactful applications and eager to learn more about AIML. My expertise lies in Python and web development. I enjoy contributing to open source and building innovative solutions. Let's collaborate!"
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/explore/coding">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdrYmNpMTgyeXN4NHhlcWtsczVqN2dpeTdmcmZ0emx4d2xsNmQ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsakkurana26&label=Profile%20views&color=0e75b6&style=flat" alt="itsakkurana26" /> </p>
 
